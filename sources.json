@@ -1,0 +1,38 @@
+[
+  {
+    "id": "wheat-autumn-2026", "title": "2026年小麦秋冬种技术意见", "publisher": "农业农村部", "published_at": "2026-09-15", "source_url": "https://www.moa.gov.cn/gk/nszd_1/2026n/202609/t20260915_6487701.htm", "fetched_at": "2026-10-19", "crop": "小麦", "region": "全国冬小麦主产区；具体分区措施须以原文为准", "season_or_growth_stage": "秋冬种、冬前管理", "topic": "播种、冬前田间管理、防灾减灾", "file_format": "HTML 网页快照", "raw_file": "raw/wheat_autumn_2026.html", "document_file": "documents/wheat_autumn_2026.md"
+  },
+  {
+    "id": "wheat-spring-2017", "title": "2017年全国冬小麦春季田管技术指导意见", "publisher": "农业部", "published_at": "2017-02-08", "source_url": "http://www.moa.gov.cn/gk/nszd_1/2017nszd/201702/t20170208_5470371.htm", "fetched_at": "2026-10-19", "crop": "小麦", "region": "全国冬小麦主产区；不同麦区分类管理", "season_or_growth_stage": "返青至灌浆成熟的春季田间管理", "topic": "春季田管、肥水管理、防灾减灾", "file_format": "HTML 网页快照", "raw_file": "raw/wheat_spring_2017.html", "document_file": "documents/wheat_spring_2017.md"
+  },
+  {
+    "id": "maize-spring-2024", "title": "2024年玉米春耕春播技术意见", "publisher": "农业农村部", "published_at": "2024-04-08", "source_url": "https://www.moa.gov.cn/gk/nszd_1/nszd_2/202404/t20240408_6453147.htm", "fetched_at": "2026-10-19", "crop": "玉米", "region": "春播玉米区；原文按东北、黄淮海、西北等区域提出要求", "season_or_growth_stage": "春耕春播、苗期", "topic": "整地、播种、密植、苗期管理", "file_format": "HTML 网页快照", "raw_file": "raw/maize_spring_2024.html", "document_file": "documents/maize_spring_2024.md"
+  },
+  {
+    "id": "maize-summer-2023", "title": "2023年夏玉米单产提升技术意见", "publisher": "农业农村部", "published_at": "2023-06-12", "source_url": "https://www.moa.gov.cn/gk/nszd_1/2023/202306/t20230612_6429974.htm", "fetched_at": "2026-10-19", "crop": "玉米", "region": "黄淮海夏玉米区", "season_or_growth_stage": "夏播至成熟，全生育期关键管理", "topic": "单产提升、播种、密度、水肥、病虫害防控", "file_format": "HTML 网页快照", "raw_file": "raw/maize_summer_2023.html", "document_file": "documents/maize_summer_2023.md"
+  },
+  {
+    "id": "rice-northeast-2020", "title": "2020年东北地区水稻生产技术指导意见", "publisher": "农业农村部水稻专家指导组", "published_at": "2020-03-12", "source_url": "https://www.moa.gov.cn/gk/nszd_1/2020/202003/t20200312_6338747.htm", "fetched_at": "2026-10-19", "crop": "水稻", "region": "东北地区", "season_or_growth_stage": "育秧、插秧至收获，全生育期", "topic": "育秧、插秧、肥水管理、病虫害防控", "file_format": "HTML 网页快照", "raw_file": "raw/rice_northeast_2020.html", "document_file": "documents/rice_northeast_2020.md"
+  },
+  {
+    "id": "rice-yangtze-2012", "title": "长江中下游水稻生产技术指导意见", "publisher": "农业部", "published_at": "2012-06-26", "source_url": "http://www.moa.gov.cn/xw/zwdt/201206/t20120626_2770008.htm", "fetched_at": "2026-10-19", "crop": "水稻", "region": "长江中下游地区", "season_or_growth_stage": "分蘖期至成熟期田间管理", "topic": "田间管理、肥水、病虫害、防灾减灾", "file_format": "HTML 网页快照", "raw_file": "raw/rice_yangtze_2012.html", "document_file": "documents/rice_yangtze_2012.md"
+  },
+  {
+    "id": "wheat-cold-2022", "title": "2022年小麦科学防范“倒春寒”技术意见", "publisher": "农业农村部", "published_at": "2022-03-09", "source_url": "https://www.moa.gov.cn/gk/nszd_1/2022/202203/t20220309_6391021.htm", "fetched_at": "2026-10-20", "crop": "小麦", "region": "西南、长江中下游、黄淮海和西北小麦主产区", "season_or_growth_stage": "返青、拔节至孕穗期的春季低温灾害防范", "topic": "倒春寒预防、冻害补救、肥水管理", "file_format": "HTML 网页快照", "raw_file": "raw/wheat_cold_2022.html", "document_file": "documents/wheat_cold_2022.md"
+  },
+  {
+    "id": "wheat-pest-2022", "title": "全国农技中心发布2022年小麦秋冬季病虫害防控技术指导意见", "publisher": "全国农业技术推广服务中心", "published_at": "2022-09-29", "source_url": "https://www.moa.gov.cn/gk/nszd_1/2022/202209/t20220929_6412178.htm", "fetched_at": "2026-10-20", "crop": "小麦", "region": "全国小麦产区；原文按西北、西南、黄淮、长江中下游、华北等分区", "season_or_growth_stage": "秋播、苗期和秋冬季病虫害防控", "topic": "绿色防控、种子处理、病虫监测", "file_format": "HTML 网页快照", "raw_file": "raw/wheat_pest_2022.html", "document_file": "documents/wheat_pest_2022.md"
+  },
+  {
+    "id": "maize-one-spray-2025", "title": "2025年玉米“一喷多促”技术意见", "publisher": "农业农村部", "published_at": "2025-08-09", "source_url": "https://www.moa.gov.cn/gk/nszd_1/2025n/202508/t20250809_6476360.htm", "fetched_at": "2026-10-20", "crop": "玉米", "region": "东北春玉米区、黄淮海夏玉米区、西南及南方丘陵区", "season_or_growth_stage": "抽雄吐丝至籽粒建成、乳熟至成熟期", "topic": "一喷多促、抗逆、灌浆、病虫害综合防控", "file_format": "HTML 网页快照", "raw_file": "raw/maize_one_spray_2025.html", "document_file": "documents/maize_one_spray_2025.md"
+  },
+  {
+    "id": "maize-pest-2024", "title": "2024年玉米重大病虫害防控技术方案", "publisher": "全国农业技术推广服务中心", "published_at": "2024-03-08", "source_url": "https://www.moa.gov.cn/gk/nszd_1/nszd_2/202403/t20240308_6450963.htm", "fetched_at": "2026-10-20", "crop": "玉米", "region": "北方春玉米区、黄淮海夏玉米区、西南及南方丘陵区、西北玉米区", "season_or_growth_stage": "播种至中后期，全生育期病虫害防控", "topic": "病虫害监测、绿色防控、科学用药", "file_format": "HTML 网页快照", "raw_file": "raw/maize_pest_2024.html", "document_file": "documents/maize_pest_2024.md"
+  },
+  {
+    "id": "rice-northeast-transplant-2024", "title": "2024年东北水稻育插秧技术意见", "publisher": "农业农村部", "published_at": "2024-04-11", "source_url": "https://www.moa.gov.cn/gk/nszd_1/nszd_2/202404/t20240411_6453427.htm", "fetched_at": "2026-10-20", "crop": "水稻", "region": "东北地区", "season_or_growth_stage": "育秧、整地、插秧和返青初期", "topic": "育秧、低温防范、整地、移栽、苗期病虫草防控", "file_format": "HTML 网页快照", "raw_file": "raw/rice_northeast_transplant_2024.html", "document_file": "documents/rice_northeast_transplant_2024.md"
+  },
+  {
+    "id": "rice-south-flood-2024", "title": "当前南方水稻防涝抗灾技术意见", "publisher": "农业农村部", "published_at": "2024-06-20", "source_url": "https://www.moa.gov.cn/gk/nszd_1/nszd_2/202406/t20240620_6457471.htm", "fetched_at": "2026-10-20", "crop": "水稻", "region": "江淮、江汉、江南、华南西部和西南等南方稻区", "season_or_growth_stage": "早稻抽穗扬花和灌浆期；一季中稻移栽至分蘖期", "topic": "洪涝灾害、排涝、肥水管理、灾后恢复、病虫害防控", "file_format": "HTML 网页快照", "raw_file": "raw/rice_south_flood_2024.html", "document_file": "documents/rice_south_flood_2024.md"
+  }
+]

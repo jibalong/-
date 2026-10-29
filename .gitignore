@@ -1,0 +1,16 @@
+# 本地模型与缓存（保留在磁盘，不提交）
+/models/
+**/__pycache__/
+*.py[cod]
+.cache/
+.venv/
+venv/
+
+# 运行记录与本机私密配置
+/logs/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
